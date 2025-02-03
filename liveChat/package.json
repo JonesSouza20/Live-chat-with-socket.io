@@ -5,7 +5,9 @@
     "type": "commonjs",
     "dependencies": {
         "@socket.io/cluster-adapter": "^0.2.2",
+        "express": "^4.21.2",
         "socket-chat-example": "file:",
+        "socket.io": "^4.8.1",
         "sqlite": "^5.1.1",
         "sqlite3": "^5.1.7"
     }
