@@ -1,7 +1,5 @@
 # Live Chat com Socket.io
 
-# Live Chat com Socket.io
-
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://shields.io)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
