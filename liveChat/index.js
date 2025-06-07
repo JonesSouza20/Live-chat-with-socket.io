@@ -23,7 +23,7 @@ async function main() { // Função principal assíncrona.
   const db = await open({ // Abre uma conexão com o banco de dados SQLite.
     filename: 'chat.db', // Nome do arquivo do banco de dados.
     driver: sqlite3.Database // Driver do SQLite.
-  }); // Fim da configuração do db.
+  }); // Fim da configuração do banco de dados.
 
   await db.exec(` 
     CREATE TABLE IF NOT EXISTS messages (
